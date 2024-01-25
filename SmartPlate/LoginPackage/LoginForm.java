@@ -34,8 +34,6 @@ public class LoginForm {
     DatabaseConnection base = new DatabaseConnection();
 
     
-
-
 	/**
 	 * Launch the application.
 	 */
